@@ -129,13 +129,13 @@ This project demonstrates how different statistical distributions can be applied
 ## 🙌 Author
 
 **Alishba Amjad**
-BS Computer Science (Final Semester)
+BS Computer Science
 
 ---
 
 ## ⭐ Acknowledgment
 
-This project was completed as part of a university assignment to understand **data distributions and statistical analysis**.
+This project was completed as part of a NetSol assignment to understand **data distributions and statistical analysis**.
 
 ---
 
