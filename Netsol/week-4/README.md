@@ -79,9 +79,9 @@ A payment system is analyzed where:
 
 ```id="kz6f0m"
 📁 week-4
-│── Mini Project.ipynb
-│── Probability_distribution_and_basic_ML.ipynb
 │── distributions_tasks.ipynb
+│── Probability_distribution_and_basic_ML.ipynb
+│── Mini Project.ipynb
 │── README.md
 ```
 
