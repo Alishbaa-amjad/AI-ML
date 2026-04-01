@@ -1,7 +1,3 @@
-Perfect! I can create a **Week 2 README** in the same style as your Week 1 README, based on the files and tasks you completed. Here’s a polished version you can copy and paste directly into your GitHub repo:
-
----
-
 # 📘 AI/ML Learning Journey — Week 2 (NETSOL)
 
 ## 📌 Overview
@@ -125,8 +121,3 @@ This repository reflects my **Week 2 progress**, showcasing practical tasks and 
 
 ✨ *Stay tuned for Week 3!*
 
----
-
-If you want, I can **also create a small visual summary image** like you had in Week 1, showing Week 2 tasks at a glance — it makes the README more attractive for GitHub.
-
-Do you want me to do that too?
