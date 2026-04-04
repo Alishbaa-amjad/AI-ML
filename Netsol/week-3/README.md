@@ -27,28 +27,46 @@ week-3/
 
 ### 🔹 1. EDA — New York City Airbnb Dataset
 
+* First Contact with the Data
 * Data cleaning and preprocessing
 * Handling missing values
-* Outlier detection
-* Data visualization (histograms, boxplots, etc.)
-* Insights extraction from dataset
+* The Price Puzzle
+* Host Behaviour & Market Structure
+* Geographic Deep Dive
+* Correlation & Multivariate Analysis
+* Final Investor Brief
+* BONUS CHALLENGE
 
 ---
 
 ### 🔹 2. Statistical Analysis
 
-* Measures of central tendency (mean, median, mode)
-* Measures of dispersion (variance, standard deviation)
-* Data distribution understanding
+* Auto-MPG Dataset
+* Setup & Data Loading
+* Tests for Independence — Categorical Variables
+* Normality Testing
+* Power Transformation
+* Correlation Tests
+* Parametric Tests (t-test & ANOVA)
+* Non-Parametric Tests
+* Categorical vs Continuous — Feature Selection
+* Summary of Key Findings
 
 ---
 
 ### 🔹 3. Statistical Tests
 
-* Hypothesis formulation
-* T-test implementation
-* Z-test basics
-* P-value interpretation
+* Explore the Data (Visualisation)
+* Normality Test
+* t-test: Gender vs Marks
+* ANOVA + Post-hoc: Schools vs Marks
+* Mann-Whitney U: Study Hours by Gender
+* Pearson + Spearman: Study Hours vs Marks
+* Correlation Heatmap with Significance Mask
+* Chi-Square: Subject vs Passed
+* The Cheating Story
+* Parametric vs Non-Parametric on Skewed Data
+* Summary Dashboard
 
 ---
 
@@ -62,9 +80,17 @@ week-3/
 
 ### 🔹 5. Syntax & Logic Helpsheet
 
-* Python syntax reference
-* Important functions for data analysis
-* Quick revision guide
+* Building Data
+* Filtering & Grouping
+* Statistical Tests (scipy.stats)
+* Writing the Verdict (if / else pattern)
+* Loops (for repeated tasks)
+* Crosstab & Proportions (Chi-Square prep)
+* Nested Loop — p-value Matrix
+* Tukey Post-hoc Test
+* Collecting Results into a Table
+* Visualisation Patterns
+* Quick Reference Card
 
 ---
 
@@ -112,4 +138,8 @@ For better visualization, open notebooks using Jupyter or VS Code.
 BS Computer Science | AIML Trainee at NETSOL
 
 ---
+
+✨ *Stay tuned for Week 4!*
+
+
 
