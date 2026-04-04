@@ -56,6 +56,18 @@ week-3/
 
 ### 🔹 3. Statistical Tests
 
+* A Simple Guide for Students
+* First — Understand the p-value (with a real story)
+* The Big Picture — Which Test Do I Use?
+* Each Test — One Line Explanation + Example
+* Normality Test,t-test,ANOVA,Mann-Whitney U,Kruskal-Wallis
+* Pearson Correlation,Spearman Correlation,Chi-Square Test
+* Final One-Page Cheat Sheet
+
+---
+
+### 🔹 4. Statistical Worksheet
+
 * Explore the Data (Visualisation)
 * Normality Test
 * t-test: Gender vs Marks
@@ -67,14 +79,6 @@ week-3/
 * The Cheating Story
 * Parametric vs Non-Parametric on Skewed Data
 * Summary Dashboard
-
----
-
-### 🔹 4. Statistical Worksheet
-
-* Practice-based problems
-* Applied statistical concepts
-* Step-by-step solutions
 
 ---
 
