@@ -124,7 +124,7 @@ and build a strong foundation for Machine Learning projects.
 **Alishba Amjad**
 🎓 BS Computer Science (Completed)
 
-📍 AI/ML Trainee — NETSOL
+📍 AIML Trainee at NETSOL
 
 ---
 
