@@ -161,6 +161,13 @@ BS Computer Science | AIML Trainee at NETSOL
 
 ---
 
+📌 Note
+
+GitHub preview may not always render .ipynb files correctly.
+For the best experience, open notebooks using Jupyter Notebook or VS Code.
+
+---
+
 ✨ **Stay tuned for Week 4!** 🚀
 
 
