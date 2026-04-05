@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project covers the implementation and visualization of major statistical distributions along with basic machine learning concepts. It is designed for beginners to understand statistics using simple examples, real-life scenarios, and clear visualizations.
+This week focuses on exploring data, understanding statistical distributions, and applying them in real-world machine learning scenarios. It combines **data analysis, visualization, probability theory, and anomaly detection** into practical tasks.
 
 In **Week 4**, the project is extended to include:
 
@@ -15,52 +15,84 @@ In **Week 4**, the project is extended to include:
 
 ## 🎯 Topics Covered
 
-### 🔹 Statistical Distributions
+## 🔍 FIFA Challenge – Data Analysis Workflow
 
-* Bernoulli Distribution
-* Binomial Distribution
-* Poisson Distribution
-* Normal Distribution
-* Uniform Distribution
-* Exponential Distribution
-* T-Distribution
+In this challenge, we performed complete exploratory data analysis (EDA) including:
 
-Each distribution includes:
+* 🔎 **Explore the Data**
+* 📊 **Visualizations**
+* 📈 **Normality Checks**
+* ⚖️ **Group Comparisons**
+* 🔗 **Correlation Analysis**
+* 🧩 **Categorical Relationships (Chi-Square Test)**
+* 🧾 **Summary & Final Visualization**
 
-* Real-life story
-* Python implementation
-* Graphical visualization
+This helped in understanding patterns, distributions, and relationships within the dataset.
 
 ---
 
-### 🔹 Basic Machine Learning 
+## 📊 Visualization Tasks – Statistical Distributions
 
-* Synthetic dataset generation
-* Data visualization
-* Understanding distributions
-* Sklearn pipeline:
+We explored and visualized key probability distributions:
 
-  * Feature handling
-  * Data scaling
-  * Model training
+* 🎯 Bernoulli Distribution
+* 🎯 Binomial Distribution
+* 🎯 Normal Distribution
+* 🎯 Poisson Distribution
+* 🎯 Uniform Distribution
+* 🎯 Exponential Distribution
+* 🎯 t-Distribution
+
+These distributions are essential for understanding real-world data behavior.
 
 ---
 
-### 🔹 Mini Project 🚨
+## 🤖 Probability Distributions in AI/ML
 
-## Fraud Detection using Poisson Anomalies
+In machine learning context, we focused on:
 
-A payment system is analyzed where:
+* 📌 Normal Distribution
+* 📌 Binomial Distribution
+* 📌 Poisson Distribution
 
-* Normal behavior → transactions follow Poisson distribution (λ = 5)
-* Fraud behavior → sudden spikes in transactions
+### 💡 Advanced Concepts Covered:
 
-### Features:
+* 🔄 Real-world Modeling + Pipeline
+* 🎛️ Interactive Visualization (ipywidgets)
+* 📐 Distribution Fitting
+* 📂 Real Dataset Integration
 
-* Simulation of normal transactions
-* Injection of fraud anomalies
-* Detection using probability threshold
-* Visualization of anomalies
+---
+
+## 🚀 Mini Project: Fraud Detection using Poisson Anomalies
+
+### 📌 Problem Statement
+
+A payment system records the **number of transactions per minute**. We use Poisson distribution to detect unusual spikes (fraud).
+
+### ✅ Tasks Completed
+
+**Q1:** Simulate normal transaction behavior
+
+* Assumed λ (lambda) = 5
+
+**Q2:** Inject anomalies
+
+* Introduced sudden spikes in transaction counts
+
+**Q3:** Detect anomalies
+
+* Used Poisson probability threshold to identify unusual events
+
+**Q4 (Thinking): Reduce False Positives**
+
+* Use adaptive thresholds
+* Combine with moving averages
+* Apply additional statistical checks
+* Incorporate historical behavior patterns
+
+---
+
 
 ---
 
@@ -77,11 +109,12 @@ A payment system is analyzed where:
 
 ## 📂 Project Structure
 
-```id="kz6f0m"
-📁 week-4
-│── distributions_tasks.ipynb
-│── Probability_distribution_and_basic_ML.ipynb
-│── Mini Project.ipynb
+```bash
+week-4/
+│── 01_fifa_challenge.ipynb
+│── 02_distributions_tasks.ipynb
+│── 03_Probability_distribution_and_basic_ML.ipynb
+│── 04_Mini_Project.ipynb
 │── README.md
 ```
 
@@ -89,11 +122,11 @@ A payment system is analyzed where:
 
 ## 📊 Key Learning Outcomes
 
-* Understanding different probability distributions
-* Visualizing data using histograms and KDE plots
-* Identifying distributions from real data
-* Building basic ML pipelines
-* Detecting anomalies using statistical methods
+* Strong understanding of **data distributions**
+* Hands-on practice with **EDA & visualization**
+* Application of **statistics in real-world problems**
+* Introduction to **anomaly detection using probability**
+* Experience with **interactive and dynamic analysis**
 
 ---
 
@@ -136,6 +169,10 @@ Feel free to fork this repository and improve:
 
 ---
 
-## ⭐ Support
+## 🎯 Conclusion
 
-If you found this project helpful, please give it a ⭐ on GitHub!
+Week 4 bridges the gap between **theory and practical implementation**, helping us understand how statistical concepts power real-world AI/ML systems.
+
+---
+
+🚀 **Stay tuned for Week 5!** ✨
