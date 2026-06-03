@@ -79,11 +79,12 @@ week-10/
 
 * 📑 Project Documentation
 * 🎯 Problem Statement
-* 📊 Dataset Discussion
+* 👁️ Introducing ObserveX
 * ⚙️ Methodology
-* 🤖 Model Implementation
-* 📈 Results & Evaluation
-* 💡 Key Findings
+* 🔍 Current Solution
+* 👥 Who It Helps
+* 🔄 How ObserveX Works
+* 🚀 MVP Progress & Live Demo
 * 🎤 Project Presentation
 
 ---
@@ -94,26 +95,54 @@ week-10/
 * 📂 Dataset Preparation
 * 🔤 Tokenization
 * 📚 Vocabulary Creation
-* 🔄 DataLoader Implementation
-* 🧠 LSTM Encoder-Decoder Model
-* 🎯 Attention Mechanism
-* 🚀 Model Training
-* 🌐 Translation Tasks
-* 📊 Evaluation Metrics
-* 📝 Reflection Questions
+* 🧠 LSTM Encoder
+* 🚫🎯 LSTM Decoder WITHOUT Attention
+* 🎯 Attention Score Functions
+      * 🔹 Dot-Product Attention
+      * ⚖️ Scaled Dot-Product Attention
+      * 🧮 Bahdanau
+* 🎯🧠 LSTM Decoder WITH Attention
+* 🔄 Training Loop
+* ⚙️ Hyperparameters & Model Instantiation
+* 🚀 Train All Four Models
+* 📈 Compare Training Curves
+* 🌐 Inference & Translation
+* 🔥 Visualise Attention Heatmap
+* 📊 BLEU Score Evaluation
+* 📉 Attention Entropy Analysis
 
 ---
 
 ## 🔹 04 — Extended LSTM with Attention 🔥
 
-* 🧠 Enhanced Encoder-Decoder Architecture
-* 🎯 Attention Layer Implementation
-* 📊 Context Vector Analysis
+* ⚙️ Environment Setup
+* 📂 Dataset Preparation
+* 🔤 Tokenization
+* 📚 Vocabulary Creation
+* 🧠 LSTM Encoder
+* 🚫🎯 LSTM Decoder WITHOUT Attention
+* 🎯 Attention Score Functions
+      * 🔹 Dot-Product Attention
+      * ⚖️ Scaled Dot-Product Attention
+      * 🧮 Bahdanau 
+* 🎯🧠 LSTM Decoder WITH Attention
+* 🌟 Additional Attention Variants
+      * 🔄 Single Attention (Cross-Attention)
+      * 🎯 Single-Head Attention
+      * 👑 Multi-Head Attention
+* 🔄 Training Loop
+* ⚙️ Hyperparameters & Model Instantiation
+* 🚀 Train All Four Models
+* 📈 Compare Training Curves
+* 🌐 Inference & Translation
 * 🔍 Attention Weight Visualization
 * 🌐 Urdu-to-English Translation
 * 📈 Performance Improvements
 * 🧪 Experimental Evaluation
-* 💡 Extended Challenges
+* 🔥 Visualise Attention Heatmap
+* 📊 BLEU Score Evaluation
+* 📉 Attention Entropy Analysis
+
 
 ---
 
@@ -123,9 +152,11 @@ week-10/
 * 🧠 RNN Concepts
 * 🚀 LSTM Concepts
 * ⚡ GRU Concepts
-* 🎯 Attention Mechanisms
-* 🌐 NLP Applications
-* 📊 Deep Learning Fundamentals
+* 👑 Multi-Head Attention
+* 🎯 Self-Attention
+* 🔄 Cross-Attention
+* 🧮 Bahdanau Attention
+* 🏗️ Encoder & Decoder Architecture
 
 ---
 
