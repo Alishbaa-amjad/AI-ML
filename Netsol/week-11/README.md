@@ -29,6 +29,7 @@ The goal was to understand how modern Large Language Models (LLMs) are built, tr
 week-11/
 │── 01_Transformers.ipynb
 │── 02_lora_qlora_worksheet.ipynb
+│── 03_OBSERVEX_Demo.mp4
 │── README.md
 ```
 
@@ -71,6 +72,24 @@ Learned how Transformer models process entire sequences in parallel, capture lon
 * 📊 Performance Comparison
 * 💡 Practical Implementation
 * 🔍 Advantages & Limitations of LoRA and QLoRA
+
+
+## 🔹 03 — OBSERVEX Demo 🎓
+
+* 🚀 Introduction to ObserveX — AI-based real-time online exam proctoring system
+* 👁️ Real-Time Gaze Detection — Tracks eye direction (left, right, up, down) using MediaPipe
+* 📱 Phone Detection — Detects phone or electronic devices during exam using YOLOv8
+* 👥 Multiple Person Detection — Detects more than one person in the camera frame
+* ⚠️ Smart Alarm → Warning Flow — First alarm, warning after 4s, auto-termination after 4 warnings
+* 🛡️ Tab Switch Detection — Red alert and warning triggered on browser tab change
+* 📊 Live Teacher Dashboard — Real-time monitoring of all connected students and their status
+* 🔍 Per-Student Violation History — View detailed warning history of any student after session
+* 📈 Post-Session Analytics — Class-level overview via pie chart and bar chart
+* 💾 Database & History — All sessions and events saved in SQLite database
+* 📤 CSV Export — Export any session data as a CSV file
+* ⏱️ Countdown Timer & Grace Period — Exam timer with startup grace period for system initialization
+* 🔒 Auto-Termination — Session automatically closed upon reaching maximum violations
+
 
 ### 🎓 Key Learning
 
